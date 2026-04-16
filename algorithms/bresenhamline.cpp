@@ -33,7 +33,6 @@ int main()
         }
         else{
             y++;
-            y++;
             p = p + 2 * dy - 2 * dx;
         }
     }
